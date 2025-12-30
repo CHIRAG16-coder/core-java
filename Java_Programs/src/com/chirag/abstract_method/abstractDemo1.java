@@ -1,5 +1,5 @@
 package com.chirag.abstract_method;
-
+//First Program
 abstract class Cake
 {
 	protected String message;
